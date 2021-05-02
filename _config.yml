@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Megan Wallace"
+description: "The Personal Homepage for Megan Wallace"
 
-url: "http://benjaminbarad.com"
+url: "http://megan-a-wallace.co.uk"
 
 gems: [jekyll-paginate]
 paginate: 5
