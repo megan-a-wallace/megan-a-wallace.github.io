@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+<img src="/static/img/_us-pp-visa-green,-indian-visa.jpg" class="img-responsive center-block" alt=""/>
 
 <h1 class="text-center">Megan A. Wallace</h1>
 
