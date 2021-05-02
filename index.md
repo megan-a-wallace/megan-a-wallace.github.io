@@ -6,7 +6,7 @@ group: home
 
 <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
 
-<h1 class="text-center">Megan A. Wallace, Ph.D.</h1>
+<h1 class="text-center">Megan A. Wallace</h1>
 
 <p class="lead text-justify">
 I am an evolutionary biologist with a special interest in host-virus interactions in complex communities. I am working as a postdoc with [Ben Longdon](https://benlongdon.com/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. In particular, I am excited about the power of electron tomography to contextualize the structure, dynamics, and interactions of proteins as they perform their physiolocal function in the cell.    
